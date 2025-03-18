@@ -23,23 +23,23 @@ The dashboard consists of four interactive pages:
 
 
 ## Tools Used
-SQL: For querying and aggregating hospital data.
-Python: For generating synthetic hospital data (using Pandas, NumPy, Faker).
-Power BI: For building interactive visualizations and dashboards.
+- SQL: For querying and aggregating hospital data.
+- Python: For generating synthetic hospital data (using Pandas, NumPy, Faker).
+- Power BI: For building interactive visualizations and dashboards.
 
 
 ## Data
 The dashboard uses synthetic data generated with Python’s Faker library to simulate realistic hospital operations, including:
-Patient demographics and admissions.
-Staff assignments and shifts.
-Financial transactions (billing and expenses).
-Equipment and bed usage.
+- Patient demographics and admissions.
+- Staff assignments and shifts.
+- Financial transactions (billing and expenses).
+- Equipment and bed usage.
 This data mimics real-world scenarios but is entirely fictional, ensuring privacy and compliance.
 
 <img width="745" alt="Screenshot 2025-03-18 140952" src="https://github.com/user-attachments/assets/18da217e-c69c-400c-9da3-3a5ac3be681f" />
-<img width="744" alt="Screenshot 2025-03-18 140917" src="https://github.com/user-attachments/assets/a4dcd060-4cb4-4b37-a8ba-0d66032471f8" />
 <img width="746" alt="Screenshot 2025-03-18 140838" src="https://github.com/user-attachments/assets/15a59860-b381-4acd-bcbf-195493e351df" />
 <img width="746" alt="Screenshot 2025-03-18 140748" src="https://github.com/user-attachments/assets/a5cd4b82-0454-4ecd-bffc-6e2653259901" />
+<img width="744" alt="Screenshot 2025-03-18 140917" src="https://github.com/user-attachments/assets/a4dcd060-4cb4-4b37-a8ba-0d66032471f8" />
 
 ## Key Insights from Analysis
 -	ER & ICU have high bed occupancy rates (91.67% and 100%, respectively), while General Ward has only 47.37% occupancy, indicating inefficient bed distribution.
