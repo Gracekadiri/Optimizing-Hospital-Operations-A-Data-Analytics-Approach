@@ -14,12 +14,6 @@ This project is carried out to simulate how hospitals in Nigeria can leverage da
 ## Project Overview
 Hospitals in Nigeria often face challenges in tracking patient care, resource allocation, and operational efficiency due to limited access to real-time data. This dashboard aims to address that by providing a tool to monitor critical KPIs, enabling data-driven decision-making. Although built with synthetic data, the project demonstrates how analytics can transform hospital management.
 
-## Dashboard Features
-The dashboard consists of four interactive pages:
-- Overview: High-level metrics like total patients, average length of stay, bed occupancy, and total revenue.
-- Patient Flow & Trends: Visualizes admissions, discharges, patient demographics, and top diagnoses.
-- Resource Utilization: Tracks bed occupancy by department, staff-to-patient ratios, and equipment usage.
-- Financial Performance: Monitors revenue, expenses, cost per patient, and profitability trends.
 
 
 ## Tools Used
@@ -36,6 +30,13 @@ The dashboard uses synthetic data generated with Python’s Faker library to sim
 - Equipment and bed usage.
 This data mimics real-world scenarios but is entirely fictional, ensuring privacy and compliance.
 
+## Dashboard Features
+The dashboard consists of four interactive pages:
+- Overview: High-level metrics like total patients, average length of stay, bed occupancy, and total revenue.
+- Patient Flow & Trends: Visualizes admissions, discharges, patient demographics, and top diagnoses.
+- Resource Utilization: Tracks bed occupancy by department, staff-to-patient ratios, and equipment usage.
+- Financial Performance: Monitors revenue, expenses, cost per patient, and profitability trends.
+  
 <img width="745" alt="Screenshot 2025-03-18 140952" src="https://github.com/user-attachments/assets/18da217e-c69c-400c-9da3-3a5ac3be681f" />
 <img width="746" alt="Screenshot 2025-03-18 140838" src="https://github.com/user-attachments/assets/15a59860-b381-4acd-bcbf-195493e351df" />
 <img width="746" alt="Screenshot 2025-03-18 140748" src="https://github.com/user-attachments/assets/a5cd4b82-0454-4ecd-bffc-6e2653259901" />
