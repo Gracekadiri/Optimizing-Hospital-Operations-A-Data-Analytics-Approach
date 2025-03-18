@@ -1,4 +1,4 @@
-# Revenue Enhancement: Optimizing Sales Strategies through Regional and Customer Analysis with Python and Excel
+# Optimizing Hospital Operations: A Data Analytics Approach
 ## Introduction
 This project is carried out to simulate how hospitals in Nigeria can leverage data analytics to monitor and improve their operations. Using SQL, Power BI, and Python, the dashboard tracks key performance indicators (KPIs) across four main areas: hospital overview, patient flow, resource utilization, and financial performance. The data used is synthetic, generated to mimic real-world hospital scenarios.
 
@@ -35,6 +35,11 @@ Staff assignments and shifts.
 Financial transactions (billing and expenses).
 Equipment and bed usage.
 This data mimics real-world scenarios but is entirely fictional, ensuring privacy and compliance.
+
+<img width="745" alt="Screenshot 2025-03-18 140952" src="https://github.com/user-attachments/assets/18da217e-c69c-400c-9da3-3a5ac3be681f" />
+<img width="744" alt="Screenshot 2025-03-18 140917" src="https://github.com/user-attachments/assets/a4dcd060-4cb4-4b37-a8ba-0d66032471f8" />
+<img width="746" alt="Screenshot 2025-03-18 140838" src="https://github.com/user-attachments/assets/15a59860-b381-4acd-bcbf-195493e351df" />
+<img width="746" alt="Screenshot 2025-03-18 140748" src="https://github.com/user-attachments/assets/a5cd4b82-0454-4ecd-bffc-6e2653259901" />
 
 ## Key Insights from Analysis
 -	ER & ICU have high bed occupancy rates (91.67% and 100%, respectively), while General Ward has only 47.37% occupancy, indicating inefficient bed distribution.
