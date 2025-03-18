@@ -3,10 +3,10 @@
 This project is carried out to simulate how hospitals in Nigeria can leverage data analytics to monitor and improve their operations. Using SQL, Power BI, and Python, the dashboard tracks key performance indicators (KPIs) across four main areas: hospital overview, patient flow, resource utilization, and financial performance. The data used is synthetic, generated to mimic real-world hospital scenarios.
 
 ## Table of Contents
-- Project Overview (#project-overview)
-- Technologies Used (#technologies-used)
-- Data (#data)
-- Dashboard Features (#dashboard-features)
+- Project Overview 
+- Tools Used
+- Data
+- Dashboard Features
 - Dashboard (#screenshots)
 - Insights
 - Recommendations
