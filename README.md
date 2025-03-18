@@ -4,9 +4,9 @@ This project is carried out to simulate how hospitals in Nigeria can leverage da
 
 ## Table of Contents
 - Project Overview (#project-overview)
-- Dashboard Features (#dashboard-features)
 - Technologies Used (#technologies-used)
 - Data (#data)
+- Dashboard Features (#dashboard-features)
 - Dashboard (#screenshots)
 - Insights
 - Recommendations
@@ -38,8 +38,8 @@ The dashboard consists of four interactive pages:
 - Financial Performance: Monitors revenue, expenses, cost per patient, and profitability trends.
   
 <img width="745" alt="Screenshot 2025-03-18 140952" src="https://github.com/user-attachments/assets/18da217e-c69c-400c-9da3-3a5ac3be681f" />
-<img width="746" alt="Screenshot 2025-03-18 140838" src="https://github.com/user-attachments/assets/15a59860-b381-4acd-bcbf-195493e351df" />
 <img width="746" alt="Screenshot 2025-03-18 140748" src="https://github.com/user-attachments/assets/a5cd4b82-0454-4ecd-bffc-6e2653259901" />
+<img width="746" alt="Screenshot 2025-03-18 140838" src="https://github.com/user-attachments/assets/15a59860-b381-4acd-bcbf-195493e351df" />
 <img width="744" alt="Screenshot 2025-03-18 140917" src="https://github.com/user-attachments/assets/a4dcd060-4cb4-4b37-a8ba-0d66032471f8" />
 
 ## Key Insights from Analysis
