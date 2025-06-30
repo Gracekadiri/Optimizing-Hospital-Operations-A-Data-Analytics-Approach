@@ -1,6 +1,20 @@
-# Optimizing Hospital Operations: A Data Analytics Approach
+# Optimizing Hospital Operations: A Data Analytics Simulation for Systemwide Insight
 ## Introduction
-This project is carried out to simulate how hospitals in Nigeria can leverage data analytics to monitor and improve their operations. Using SQL, Power BI, and Python, the dashboard tracks key performance indicators (KPIs) across four main areas: hospital overview, patient flow, resource utilization, and financial performance. The data used is synthetic, generated to mimic real-world hospital scenarios.
+This end-to-end analytics project simulates hospital operations in a low-resource context, using synthetic data to model decisions around patient flow, resource strain, and financial performance.
+
+I used SQL, Power BI, and Python to track KPIs across admissions, staffing, equipment use, and payer models. The goal was to simulate what a real hospital analyst would do to support triage, burnout prevention, profitability, and care access — all in one dashboard.
+
+## Key Contributions:
+
+Built multi-layered dashboard with clinical, staffing, and financial indicators
+
+Surfaced bottlenecks in wait times, equipment use, and shift design
+
+Modeled cost-per-patient and payer mix to support revenue strategy
+
+Recommended changes to bed reallocation, preventive maintenance, and scheduling
+
+Translated data into 8 concrete operational decisions
 
 ## Table of Contents
 - Project Overview 
